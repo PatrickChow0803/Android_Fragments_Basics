@@ -8,7 +8,7 @@ import com.lambdaschool.congressfragmentsproject.api.CongresspersonDetails
 import com.lambdaschool.congressfragmentsproject.api.CongresspersonOverview
 import java.util.ArrayList
 
-class MainActivity : AppCompatActivity() { wdasdawdasdwadsa
+class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
